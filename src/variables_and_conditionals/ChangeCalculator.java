@@ -34,3 +34,4 @@ public class ChangeCalculator {
     	JOptionPane.showMessageDialog(null, total + "Dollars");
     }
 }
+
